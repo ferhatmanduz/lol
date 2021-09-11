@@ -6,6 +6,7 @@ public class projectc01ab {
 		System.out.println("here is merge conflict i created from local masater");
 
 		public static void main(String[] args) {
+			!!!!!
 		
    MMMMMMMMMMMMMMM
 		
