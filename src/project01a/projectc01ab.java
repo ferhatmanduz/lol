@@ -8,8 +8,12 @@ public class projectc01ab {
 		public static void main(String[] args) {
 			!!!!!
 		
+<<<<<<< HEAD
    MMMMMMMMMMMMMMM
    cccccccccccc
+=======
+qqqqqqqqqqqqqqq
+>>>>>>> 0414e7c61be83428ed75c0a524666f0867b2b12e
 		
 	}
 
